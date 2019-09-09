@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: url('../images/b.png');
+    background-size: 100%;
+    height: 1500px;
+}
+
+  
+

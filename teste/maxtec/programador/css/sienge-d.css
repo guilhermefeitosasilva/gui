@@ -1,0 +1,178 @@
+
+/* estilos da pesquisa */
+main div#janela_formulario {
+    width:750px;
+    margin:0px auto 100px;
+    
+    
+  
+}
+
+
+
+main div#janela_formulario form {
+    
+    width:850px;  
+    margin:0px auto;
+    
+}
+
+main div#janela_formulario form #mensagem{
+    
+ margin: 10px auto;
+ display: none;   
+    
+}
+
+
+main div#janela_formulario  h2  {
+   font-size: 18px;
+	
+color:#444444;
+  font-style: normal;
+}
+
+main div#janela_formulario form h3  {
+
+    font-size:14px;
+  color:#444444;
+    margin:0%;
+    padding:1%; 
+    border-bottom:2px solid #3b5998;
+}
+
+
+
+main div#janela_formulario form h4  {
+ 
+    font-size:12px;
+ color:#444444;
+    margin:0%;
+    padding:1%; 
+}
+main div#janela_formulario form label{
+
+	
+ font-size:10px;
+  color:#888888;
+}
+main div#janela_formulario form select{
+    text-align: left;
+    color:#646464;
+    font-size: 10px; 
+    border-radius:2px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+border:1px solid #888888;
+   
+}
+ 
+main div#janela_formulario form input[type="button"] {
+    height:25px;
+    text-align: center;
+
+    font-size: 20px;
+    background: #36486f; 
+    color: white;
+    margin-top: 1px;
+    
+}
+
+
+main div#janela_formulario form input[type="text"] {
+
+    font-size: 12px;
+
+    border-radius:2px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+background: white; 
+	border:1px solid #888888;
+}
+
+main div#janela_formulario form input[type="submit"] {
+    
+    display: block;
+    padding:2px 15px;
+    margin-left: 700px;
+    margin-top:10px;
+    color: #fff;
+    border:0;
+    border-radius: 2px;
+    background-color: #a1a5b4;
+    outline: none;
+    cursor: pointer;
+}
+
+
+main div#janela_formulario form input[type="reset"] {
+    display: block;
+    padding:2px 15px;
+    margin-top:10px;
+    color: #fff;
+    border:0;
+    border-radius: 2px;
+    background-color: darkgrey;
+    outline: none;
+    cursor: pointer;
+}
+
+
+main div#janela_formulario strong{
+    color: #444444;
+    font-size: 10px;
+}
+ main div#janela_consultar a {
+    margin-left: 800px;
+     margin-top:10px;
+
+}
+
+ main div#janela_gerar a {
+  
+    width: 130px;
+    padding:1px 10px;
+    color: white;
+    border-radius: 2px;
+    background-color: #228B22	;
+}
+main div#janela_gerara a {
+  
+    width: 130px;
+    padding:1px 10px;
+    color: white;
+    border-radius: 2px;
+    background-color: #a1a5b4;
+}
+
+
+main div#janela_formulario h5{
+     border-radius: 2px;
+    background-color: #cccccc;
+    color: #a1a5b4;
+}
+
+
+main div#container{
+     margin-left: -2px;
+    color: white;
+     font-size: 10px;
+    background: #004050;
+  width: 850px;
+  height: 210px;
+  overflow: auto;
+  border: 2px solid #fff;
+
+}
+main div#container a {
+    text-align: center;
+     margin-left: -4px;
+     margin-top: -2px;
+     width: 60px;
+    padding:2px 10px;
+    color: white;
+    border-radius: 2px;
+    background-color: #a1a5b4;
+}
+
+
